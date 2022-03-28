@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm a Senior Frontend and Blockchain Developer  :wink:
+ 
+#### :heart: I'm fully experienced in:
 
-<!--
-**frontendDev1991/frontendDev1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- React / Next / Redux
+- Blockchain / Ethereum chain / binance smart chain / smart contract / solidity
+- DeFi / Dex / NFT
+- Express / Node / PHP(Laravel)
+- MongoDB / Mysql / Postgresql
+- Web3 / Ethers
+- AWS / Heroku / Backblaze
+- REST API / GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :computer: Programming languages:
+
+- Javascript
+- Typescript
+- Solidity
+- PHP
+- Sql
+- NoSql
+- Html
+- Css
+
+#### :octocat: My GH stats
+
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendDev1991&count_private=true&show_icons=true" />
+</p>
